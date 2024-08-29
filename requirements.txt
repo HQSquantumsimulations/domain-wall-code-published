@@ -1,0 +1,4 @@
+numpy~=2.1.0
+matplotlib~=3.9.2
+qecsim~=1.0b9
+mpmath~=1.3.0
